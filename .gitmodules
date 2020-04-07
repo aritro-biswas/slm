@@ -1,0 +1,9 @@
+[submodule "slm-arduino"]
+	path = slm-arduino
+	url = https://github.com/aritro13/slm-arduino.git
+[submodule "slm-ui"]
+	path = slm-ui
+	url = https://github.com/aritro13/slm-ui.git
+[submodule "slm-server"]
+	path = slm-server
+	url = https://github.com/aritro13/slm-server.git
