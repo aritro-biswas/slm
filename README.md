@@ -1,6 +1,9 @@
 # SLM
 Saline Level Monitoring System
 
+# Clone
+git clone https://github.com/aritro-biswas/slm.git --recursive
+
 # Description
 In hospitals there is a major issue with the saline bottle monitoring as the nurses have to check the saline bottles time to time, This increases the exposure time of the nurses to the patients which increases the chanses of the nurses getting infected.
 
