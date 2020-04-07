@@ -7,19 +7,33 @@ In hospitals there is a major issue with the saline bottle monitoring as the nur
 This IOT based solution attempts to solve the problem by deploying modular device that can be attached to any Saline bottle for monitoring the liquid level. Once the level drops under safe threshold the flow is clamped and an allert message is sent to the nurse.
 
 # Hardware Requirments
+
 1.Arduino
+
 2.ESP8266 Wifi Module
+
 3.Clamp
+
 4.Photodiodes x2
+
 5.BLUE LED x2
+
 6.GREEN,YELLOW,RED LED
 
+
 # Software Requirments(For Linux Only)
+
 1.npm
+
 2.React Native
+
 3.mongodb
+
 4.node
+
 5.express
+
+![](Processflow.png)
 
 
 
