@@ -7,7 +7,7 @@ git clone https://github.com/aritro-biswas/slm.git --recursive
 # Description
 In hospitals there is a major issue with the saline bottle monitoring as the nurses have to check the saline bottles time to time, This increases the exposure time of the nurses to the patients which increases the chanses of the nurses getting infected.
 
-This IOT based solution attempts to solve the problem by deploying modular device that can be attached to any Saline bottle for monitoring the liquid level. Once the level drops under safe threshold the flow is clamped and an allert message is sent to the nurse.
+This IOT based solution attempts to solve the problem by deploying modular device that can be attached to any Saline bottle for monitoring the liquid level. Once the level drops under safe threshold the flow is clamped and an alert message is sent to the nurse.
 
 # Hardware Requirments
 
